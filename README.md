@@ -133,7 +133,8 @@ def server_program():
 if __name__ == '__main__':
     server_program()
 ```
-###OUTPUT:
+### OUTPUT:
+
 CLIENT:
 ![image](https://github.com/user-attachments/assets/834a70f6-2af3-48aa-8835-1c48cd0065e7)
 
